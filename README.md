@@ -1,7 +1,7 @@
 ## Instalasi
 Clone repository ini ke local Computer:
 ```
-git.clone https://github.com/DwiFibi/TugasFp_Dicoding_Bike.git
+git.clone https://github.com/DwiFibi/FP_Dicoding_BikeDataset.git
 ```
 ## Setup Environtment
 ```
