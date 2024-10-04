@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 
 # Load dataset
-day_data = pd.read_csv('day.csv')
+day_data = pd.read_csv('dashboard/day.csv')
 
 # Convert 'dteday' to datetime format
 day_data['dteday'] = pd.to_datetime(day_data['dteday'])
